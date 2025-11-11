@@ -3,11 +3,11 @@ const CONFIG = {
   profile: {
     name: "Miso Choi",
     image: "/snoopy_miso.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "AI Researcher Driven by Experience",
-    bio: "I develop everything using node.",
+    role: "Ph.D Student at Korea University",
+    bio: "AI Researcher Driven by Experience",
     email: "miso8070@korea.ac.kr",
-    linkedin: "www.linkedin.com/in/miso-choi-connect",
-    github: "https://github.com/miso-choi",
+    linkedin: "miso-choi-connect",
+    github: "miso-choi",
     instagram: "",
   },
   projects: [
